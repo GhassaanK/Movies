@@ -18,13 +18,10 @@ function App() {
     setMovies(movieData);
   }, []);
 
-  // const appAfter = {
-  //   style: { backgroundColor: 'blue'}
-  // };
   return (
     <div className= "app">
       <h3 className=''>Click for dark mode</h3>
-      <h1>Movie Mania</h1>
+      <h1>Movie Hub</h1>
 
       <div className="search">
         <input
