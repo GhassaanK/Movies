@@ -14,17 +14,18 @@
 
 body {
   font-family: var(--font-roboto);
-  background-color: #212426;
+  
 }
 
 .app {
   padding: 4rem;
-
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: #212426;
 }
+
 
 h1 {
   font-size: 3rem;
